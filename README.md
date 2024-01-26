@@ -45,5 +45,5 @@
 - **Dataset** Group use CHV dataset to train our model.
 - **How to run** streamlit run app.py
 ## POSTER
-https://github.com/HuynhThien1/Computional-Thinking---CS117/blob/master/poster.jpg
+![avatar](poster.jpg)
 
