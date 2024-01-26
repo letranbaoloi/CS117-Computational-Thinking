@@ -28,6 +28,16 @@
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 # PPE DETECTION FOR REAL CONSTRUCTION SITE
+
+## GIỚI THIỆU MÔN HỌC
+
+-   **Tên môn học:** Tư duy tính toán
+-   **Mã môn học:** CS117
+-   **Mã lớp:** CS117.O11.KHCL
+-   **Năm học:** HK2 (2023 - 2024)
+-   **Giảng viên**: TS.Ngô Đức Thành
+
+
 ## Requirements
 - Python == 3.9
 - Download package: **!pip install -r requirements.txt**
