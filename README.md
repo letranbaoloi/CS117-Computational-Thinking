@@ -5,45 +5,45 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS117 - Tư Duy Tính Toán</b></h1>
+<h1 align="center"><b>CS117 - Computational Thinking</b></h1>
 
 
 
-## BẢNG MỤC LỤC
-* [ Giảng viên hướng dẫn](#giangvien)
-* [ Thành viên nhóm](#thanhvien)
-* [ Đồ án môn học](#doan)
-## GIẢNG VIÊN HƯỚNG DẪN
-<a name="giangvien"></a>
-**TS. Ngô Đức Thành**
+## Tabel of contents
+* [ Lecturer](#lecturer)
+* [ Member](#member)
+* [ Project](#project)
+## Lecturer
+<a name="lecturer"></a>
+**Dr. Ngo Duc Thanh**
 
-## THÀNH VIÊN NHÓM
-<a name="thanhvien"></a>
-| STT    | MSSV          | Họ và Tên               | Email                   |
+## Member
+<a name="member"></a>
+| ID   	 |  Student ID   |        Name            |       Email            |
 | ------ |:-------------:| ----------------------:|-------------------------:
-| 1      | 21522634      | Lê Chí Thịnh              |21522634@gm.uit.edu.vn  |
-| 2      | 21522621      | Huỳnh Công Thiện          |21522621@gm.uit.edu.vn  |
-| 3      | 21522295      | Lê Trần Bảo Lợi           |21522295@gm.uit.edu.vn  |
-| 4      | 21522706      | Nguyễn Minh Trí           |21522706@gm.uit.edu.vn  |
-## ĐỒ ÁN MÔN HỌC
-<a name="doan"></a>
+| 1      | 21522295   	 | Le Tran Bao Loi        |21522295@gm.uit.edu.vn  |
+| 2      | 21522621      | Huynh Cong Thien       |21522621@gm.uit.edu.vn  |
+| 3      | 21522634 	 | Le Chi Thinh           |21522634@gm.uit.edu.vn  |
+| 4      | 21522706      | Nguyen Minh Tri        |21522706@gm.uit.edu.vn  |
+## Project
+<a name="project"></a>
 # PPE DETECTION FOR REAL CONSTRUCTION SITE
 
-## GIỚI THIỆU MÔN HỌC
+## Course information:
 
--   **Tên môn học:** Tư duy tính toán
--   **Mã môn học:** CS117
--   **Mã lớp:** CS117.O11.KHCL
--   **Năm học:** HK2 (2023 - 2024)
--   **Giảng viên**: TS.Ngô Đức Thành
+-   **Course Name:** Computational Thinking
+-   **Course Code:** CS117
+-   **Semester:** 2
+-   **Year:** 2023 - 2024
+-   **Lecturer:** Dr. Ngo Duc Thanh
 
 
 ## Requirements
 - Python == 3.9
 - Download package: **!pip install -r requirements.txt**
-## RUN
-- **Dataset** Group use CHV dataset to train our model.
-- **How to run** streamlit run app.py
+## Run project
+- **Dataset:** Group use CHV dataset to train our model.
+- **How to run:** streamlit run app.py
 ## POSTER
 ![avatar](poster.jpg)
 
